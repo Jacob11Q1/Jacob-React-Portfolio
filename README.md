@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!-- Animated Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=EF4444&height=140&section=header"/>
