@@ -1,0 +1,12 @@
+<svg width="200" height="60" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="CodeFlow">
+  <title>CodeFlow</title>
+  <g fill="none" stroke="#6B7280" stroke-width="3" stroke-linecap="round">
+    <path d="M18 18 L10 26 L18 34"/>
+    <path d="M42 18 L50 26 L42 34"/>
+    <path d="M26 38 C32 46, 40 46, 50 38"/>
+  </g>
+  <text x="90" y="38" fill="#6B7280" font-size="20" font-weight="600"
+        font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif">
+    CodeFlow
+  </text>
+</svg>

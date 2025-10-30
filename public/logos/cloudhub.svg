@@ -1,0 +1,13 @@
+<svg width="200" height="60" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="CloudHub">
+  <title>CloudHub</title>
+  <g fill="none" stroke="#6B7280" stroke-width="3">
+    <path d="M20 38a10 10 0 0 1 3-20 12 12 0 0 1 22-1 9 9 0 0 1 2 18H20z"/>
+    <circle cx="25" cy="24" r="2" fill="#6B7280"/>
+    <circle cx="39" cy="20" r="2" fill="#6B7280"/>
+    <circle cx="48" cy="28" r="2" fill="#6B7280"/>
+  </g>
+  <text x="90" y="38" fill="#6B7280" font-size="20" font-weight="600"
+        font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif">
+    CloudHub
+  </text>
+</svg>
