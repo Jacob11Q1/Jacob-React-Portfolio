@@ -144,9 +144,9 @@ Hover pauses the ticker and gently glows the icon for better UX.
 Need a clean, scalable web app or a modern SaaS MVP?
 I’m available for freelance & contract work.
 📧 Email: qumsiyeh37@gmail.com
-💬 WhatsApp: Chat on WhatsApp
-👔 LinkedIn: Connect
-🐙 GitHub: Jacob11Q1
+💬 WhatsApp: Chat on WhatsApp = +972 - 597298205
+👔 LinkedIn: Connect https://www.linkedin.com/in/yacoub-qumseya-9227a2132/
+🐙 GitHub: Jacob11Q1 https://github.com/Jacob11Q1
 
 
 📜 License
